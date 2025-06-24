@@ -27,7 +27,7 @@ Just so you know, this version supports names with **UNIPROT** ID only, and shou
 
 
 ### Protein sequence
-The current `human_seqs.fasta` contains the protein sequence of human from [UniProt Reviewed (Swiss-Prot)](https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/uniprot_sprot.fasta.gz). You can also use your own `.fasta` by changing the `-f` parameter.
+The current `human_seqs.fasta` contains the protein sequence of human from [UniProt Reviewed (Swiss-Prot)](https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/uniprot_sprot.fasta.gz). You can also use your own `.fasta` using the `-f`.
 
 
 
