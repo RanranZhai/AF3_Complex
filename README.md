@@ -31,3 +31,6 @@ The current `human_seqs.fasta` contains the protein sequence of human from [UniP
 
 
 
+### Output
+Each `.json` file in the output directory contains **30** complexes, which can be directly used for AF3 prediction. Use `-b` to change this number.
+
