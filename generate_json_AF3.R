@@ -1,6 +1,5 @@
 #!/usr/bin/env Rscript
 
-# 自动安装并加载包
 ensure_packages <- function(pkgs) {
   for (p in pkgs) {
     if (!requireNamespace(p, quietly = TRUE)) {
